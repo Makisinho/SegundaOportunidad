@@ -1,6 +1,6 @@
 # SegundaOportunidad
 - Dojo Dodge 
-- Version 0
+- Version 1
 - lista de caracteristicas
 	- caracteristica 1
 	- caracteristica 2 
